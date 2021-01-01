@@ -17,6 +17,7 @@ const bookingRouter = require('./routes/bookingRoutes');
 const viewRouter = require('./routes/viewRoutes');
 const cookieParser = require('cookie-parser');
 
+// Start express App
 const app = express();
 
 // Set Template engine

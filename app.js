@@ -21,6 +21,9 @@ const viewRouter = require('./routes/viewRoutes');
 // Start express App
 const app = express();
 
+// Read req.headers from Auth controller
+app.enable('trust proxy');
+
 // Set Template engine
 app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));

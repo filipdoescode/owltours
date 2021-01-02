@@ -10,7 +10,7 @@ html
             
             title Owltours | #{title}
 
-    body
+    body(data-alert=`${alert ? alert : ''}`)
         //- Header
         include _header
         //- Content

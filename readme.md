@@ -10,7 +10,7 @@
 
  <p align="center">
  <a href="#deployed-version">Demo</a> •
-  <a href="#key-features">Features</a> •
+  <a href="#implemented-on-the-website">Features</a> •
   <a href="#demonstration">Preview</a> •
   <a href="#how-to-use">Use guide</a> •
   <a href="#api-usage">API Guide</a> •

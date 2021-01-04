@@ -34,6 +34,8 @@ Live demo 🟢 : https://owltours.herokuapp.com/
 * User profile
   - Update user name,e-mail and password
 * Credit card Payment using Stripe
+* File Upload for user profile picture
+
 
 
 ## Demonstration

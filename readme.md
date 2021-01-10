@@ -25,6 +25,16 @@
 Live demo 🟢 : https://owltours.herokuapp.com/
 
 
+## API Usage
+Before using the API, you need to set the variables in Postman depending on your environment (development or production). Simply add: 
+  ```
+  - {{URL}} with your hostname as value (Eg. http://127.0.0.1:3000 or http://www.example.com)
+  - {{password}} with your user password as value.
+  ```
+
+<b>[Check Owltours API Documentation](https://documenter.getpostman.com/view/13472875/TVsxBmbF) for more info. </b>
+
+
 ## Implemented on the website
 
 * Authentication and Authorization (Used JWT)
@@ -86,17 +96,6 @@ Live demo 🟢 : https://owltours.herokuapp.com/
 ### Update your profile
 
 * You can update your own username, profile photo, email and password.
-
-
-
-## API Usage
-Before using the API, you need to set the variables in Postman depending on your environment (development or production). Simply add: 
-  ```
-  - {{URL}} with your hostname as value (Eg. http://127.0.0.1:3000 or http://www.example.com)
-  - {{password}} with your user password as value.
-  ```
-
-<b>[Check Owltours API Documentation](https://documenter.getpostman.com/view/13472875/TVsxBmbF) for more info. </b>
 
 
 ## Build With

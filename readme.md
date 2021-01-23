@@ -12,7 +12,6 @@
  <a href="#deployed-version">Demo</a> •
   <a href="#api-usage">API Guide</a> •
   <a href="#implemented-on-the-website">Features</a> •
-  <a href="#demonstration">Preview</a> •
   <a href="#how-to-use">Use guide</a> •
   <a href="#build-with">Build With</a> •
   <a href="#to-do">To-do</a> •
@@ -45,27 +44,6 @@ Before using the API, you need to set the variables in Postman depending on your
   - Update user name,e-mail and password
 * Credit card Payment using Stripe
 * File Upload for user profile picture
-
-
-
-## Demonstration
-#### Home Page :
-![owltours-home-page](https://media.giphy.com/media/VXN2dyU4pkdVTWoDZ9/giphy.gif)
-
-#### Tour Details :
-![owltours-tour-page](https://media.giphy.com/media/KlpxkMYnovIgVjHDHb/giphy.gif)
-
-#### Log in and Log out Process :
-![owltours-login-page](https://media.giphy.com/media/wsWzZ1fC1DSWDPMNV2/giphy.gif)
-
-#### Admin and User Dashboard :
-![owltours-me-page](https://media.giphy.com/media/1fUSWSY9KwK42jxfKd/giphy.gif)
-
-#### Booking a tour with Stripe :
-![owltours-stripe-page](https://media.giphy.com/media/PymrDkiuOe8ulAYNFd/giphy.gif)
-
-
-
 
 ## How To Use
 
